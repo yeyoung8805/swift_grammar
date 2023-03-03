@@ -11,4 +11,4 @@ let a: Int = 100
 var b: Int = 200
 b = 300
 
-// print(a)
+print(a)
