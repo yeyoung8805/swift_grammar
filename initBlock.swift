@@ -35,6 +35,6 @@ var user2 = User(age: 27)
 user2.nickname //result : Hani
 user2.age //result : 27
 
-var user3: USer? = User(age: 23)
+var user3: User? = User(age: 23)
 user3 = nil //result : deinit user //변수에 nil 을 대입하면 초기화하지 않겠다는 의미로 deinit 구문이 호출된다.
 
