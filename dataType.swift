@@ -15,7 +15,7 @@ var someDouble: Double = 1.1
 someDouble = 1
 
 var someBool: Bool = true
-someBool= false
+someBool = false
 
 var someCharacter: Character = "가"
 someCharacter = "A"
@@ -24,4 +24,3 @@ var someString: String = "안녕하세요"
 
 // 타입 추론
 var number = 10
-
